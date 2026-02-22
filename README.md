@@ -1,6 +1,6 @@
 # Encantado de conocerte 👋
 Bienvenido a mi perfil <br>
-Soy Jhon Bermudez, desarrollador Fullstack de Valledupar, Colombia. <br>
+Soy Jhon Bermudez, desarrollador Front End de Valledupar, Colombia. <br>
 Actualmente estudiante de ingeniería de sistemas.
 ## Tecnologias que utilizo
 <p align="left">
